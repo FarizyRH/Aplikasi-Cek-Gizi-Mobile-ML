@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ==================================================== -->
+    <!-- CARD STYLES                                          -->
+    <!-- ==================================================== -->
+    <style name="CardViewStyle" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">@dimen/card_corner_radius</item>
+        <item name="cardElevation">@dimen/card_elevation_default</item>
+        <item name="cardBackgroundColor">@color/white</item>
+    </style>
+
+    <!-- ==================================================== -->
+    <!-- BUTTON STYLES                                        -->
+    <!-- ==================================================== -->
+    <!-- Base Button Style -->
+    <style name="ButtonStyle" parent="Widget.Material3.Button">
+        <item name="cornerRadius">@dimen/button_corner_radius</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:minHeight">@dimen/button_height</item>
+        <item name="backgroundTint">@color/primary_green</item>
+    </style>
+
+    <!-- Outlined Button Style -->
+    <style name="ButtonStyle.Outlined" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="cornerRadius">@dimen/button_corner_radius</item>
+        <item name="android:textColor">@color/primary_green</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:minHeight">@dimen/button_height</item>
+        <item name="strokeColor">@color/primary_green</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="backgroundTint">@color/white</item>
+    </style>
+
+    <!-- Text Button with Icon Style -->
+    <style name="ButtonStyle.Icon" parent="Widget.Material3.Button.TextButton">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/bg_button_icon</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="android:minHeight">32dp</item>
+        <item name="android:paddingStart">12dp</item>
+        <item name="android:paddingEnd">12dp</item>
+    </style>
+
+    <!-- ==================================================== -->
+    <!-- TEXT INPUT STYLES                                    -->
+    <!-- ==================================================== -->
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">@dimen/input_corner_radius</item>
+        <item name="boxCornerRadiusTopEnd">@dimen/input_corner_radius</item>
+        <item name="boxCornerRadiusBottomStart">@dimen/input_corner_radius</item>
+        <item name="boxCornerRadiusBottomEnd">@dimen/input_corner_radius</item>
+        <item name="boxStrokeColor">@color/primary_green</item>
+        <item name="hintTextColor">@color/primary_green</item>
+        <item name="android:textColorHint">@color/text_secondary</item>
+    </style>
+
+</resources>

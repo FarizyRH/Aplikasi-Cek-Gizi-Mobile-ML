@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_green">#64E191</color>
+    <color name="primary_dark">#2E6F59</color>
+    <color name="background_app">#F8F9FA</color>
+
+    <color name="cluster_danger_sugar">#EF4444</color>
+    <color name="cluster_neutral_dense">#6B7280</color>
+    <color name="cluster_healthy_diet">#3B82F6</color>
+    <color name="cluster_special_fiber">#10B981</color>
+    <color name="cluster_warning_salt">#F59E0B</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="overlay_dark">#CC000000</color>
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="divider">#E5E7EB</color>
+    <color name="error">#EF4444</color>
+
+    <color name="gray_300">#D1D5DB</color>
+
+
+
+    <!-- Brand Colors -->
+    <color name="slate_500">#64748B</color>
+    <color name="charcoal_700">#374151</color>
+    <color name="red_500">#EF4444</color>
+    <color name="success">#64E191</color>
+    <color name="warning">#FFC107</color>
+</resources>

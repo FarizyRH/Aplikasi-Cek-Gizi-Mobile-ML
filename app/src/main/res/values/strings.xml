@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GoCheck</string>
+    <!-- Detail Scan Screen -->
+    <string name="detail_scan_title">Detail Scan</string>
+    <string name="product_info">Informasi Produk</string>
+    <string name="product_name_label">Nama Produk:</string>
+    <string name="scan_date_label">Tanggal Scan:</string>
+    <string name="elapsed_time_label">Waktu Lalu:</string>
+    <string name="nutrition_details">Rincian Nutrisi</string>
+    <string name="health_recommendation">Rekomendasi Kesehatan</string>
+    <string name="delete_button">Hapus</string>
+    <string name="share_button">Bagikan</string>
+    <string name="error_icon">Error</string>
+    <string name="success_icon">Success"</string>
+    <!-- Content Descriptions -->
+    <string name="scan_camera_desc">Buka kamera untuk scan produk</string>
+    <string name="delete_scan_desc">Hapus hasil scan</string>
+    <string name="share_scan_desc">Bagikan hasil scan</string>
+</resources>

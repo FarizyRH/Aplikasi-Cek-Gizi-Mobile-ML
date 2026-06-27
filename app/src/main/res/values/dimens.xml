@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ==================================================== -->
+    <!-- SPACING SYSTEM                                       -->
+    <!-- ==================================================== -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_xlarge">32dp</dimen>
+
+    <!-- ==================================================== -->
+    <!-- SHAPE & RADIUS                                       -->
+    <!-- ==================================================== -->
+    <dimen name="radius_small">8dp</dimen>
+    <dimen name="radius_medium">12dp</dimen>
+    <dimen name="radius_large">16dp</dimen>
+
+    <!-- Component Specific Radius -->
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="button_corner_radius">12dp</dimen>
+    <dimen name="input_corner_radius">12dp</dimen>
+
+    <!-- ==================================================== -->
+    <!-- ELEVATION                                            -->
+    <!-- ==================================================== -->
+    <dimen name="elevation_small">2dp</dimen>
+    <dimen name="elevation_medium">4dp</dimen>
+    <dimen name="elevation_large">8dp</dimen>
+
+    <!-- ==================================================== -->
+    <!-- COMPONENT SIZES                                      -->
+    <!-- ==================================================== -->
+    <!-- Buttons -->
+    <dimen name="button_height">60dp</dimen>
+    <dimen name="button_height_small">48dp</dimen>
+
+    <!-- Icons -->
+    <dimen name="icon_size_small">18dp</dimen>
+    <dimen name="icon_size_medium">24dp</dimen>
+    <dimen name="icon_size_large">32dp</dimen>
+
+    <!-- ==================================================== -->
+    <!-- TYPOGRAPHY SCALE                                     -->
+    <!-- ==================================================== -->
+    <dimen name="text_h1">24sp</dimen>
+    <dimen name="text_h2">20sp</dimen>
+    <dimen name="text_h3">18sp</dimen>
+    <dimen name="text_body_large">16sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+    <dimen name="text_body_small">13sp</dimen>
+    <dimen name="text_caption">12sp</dimen>
+    <dimen name="text_caption_small">11sp</dimen>
+
+    <!-- ==================================================== -->
+    <!-- BOTTOM NAVIGATION                                    -->
+    <!-- ==================================================== -->
+    <dimen name="bottom_nav_height">64dp</dimen>
+    <dimen name="bottom_nav_elevation">12dp</dimen>
+    <dimen name="bottom_nav_padding_bottom">88dp</dimen>
+
+    <!-- ==================================================== -->
+    <!-- FLOATING ACTION BUTTON (FAB)                         -->
+    <!-- ==================================================== -->
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="fab_elevation">4dp</dimen>
+    <dimen name="fab_icon_size">24dp</dimen>
+
+    <!-- FAB with Cradle (Bottom App Bar) -->
+    <dimen name="fab_cradle_margin">8dp</dimen>
+    <dimen name="fab_cradle_corner_radius">16dp</dimen>
+    <dimen name="fab_cradle_vertical_offset">0dp</dimen>
+
+    <!-- ==================================================== -->
+    <!-- TOOLBAR & APP BAR                                    -->
+    <!-- ==================================================== -->
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
+
+    <!-- ==================================================== -->
+    <!-- CARD & CONTAINER                                     -->
+    <!-- ==================================================== -->
+    <dimen name="card_elevation_default">2dp</dimen>
+    <dimen name="card_elevation_raised">4dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+
+</resources>
